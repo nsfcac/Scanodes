@@ -1,0 +1,4 @@
+PyYAML
+aiohttp
+pandas
+python-hostlist
